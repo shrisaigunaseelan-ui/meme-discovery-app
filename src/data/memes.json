@@ -1,0 +1,98 @@
+[
+  {
+    "id": "meme1",
+    "title": "When code works first try",
+    "category": "Funny",
+    "description": "Me: coding genius. Also me: forgot to save.",
+    "source": "Meme Discovery original sample",
+    "image": "meme1"
+  },
+  {
+    "id": "meme2",
+    "title": "Exam preparation plan",
+    "category": "School",
+    "description": "Plan: study for 8 hours Reality: reorganize the desk.",
+    "source": "Meme Discovery original sample",
+    "image": "meme2"
+  },
+  {
+    "id": "meme3",
+    "title": "One more game",
+    "category": "Gaming",
+    "description": "Me at 11 PM: one last game Clock at 3 AM: 👀",
+    "source": "Meme Discovery original sample",
+    "image": "meme3"
+  },
+  {
+    "id": "meme4",
+    "title": "The suspicious cat",
+    "category": "Animals",
+    "description": "Cat knocks everything down Cat: gravity did it",
+    "source": "Meme Discovery original sample",
+    "image": "meme4"
+  },
+  {
+    "id": "meme5",
+    "title": "Monday loading",
+    "category": "Relatable",
+    "description": "Sunday: I can do anything Monday: please no",
+    "source": "Meme Discovery original sample",
+    "image": "meme5"
+  },
+  {
+    "id": "meme6",
+    "title": "It works on my machine",
+    "category": "Funny",
+    "description": "Developer's final defense: It works on my machine.",
+    "source": "Meme Discovery original sample",
+    "image": "meme6"
+  },
+  {
+    "id": "meme7",
+    "title": "Group project energy",
+    "category": "School",
+    "description": "Everyone: split the work One person: becomes the team",
+    "source": "Meme Discovery original sample",
+    "image": "meme7"
+  },
+  {
+    "id": "meme8",
+    "title": "Boss level",
+    "category": "Gaming",
+    "description": "Tutorial: press any key Boss: press every key at once",
+    "source": "Meme Discovery original sample",
+    "image": "meme8"
+  },
+  {
+    "id": "meme9",
+    "title": "Treat dispenser detected",
+    "category": "Animals",
+    "description": "Dog hears a snack wrapper From three rooms away",
+    "source": "Meme Discovery original sample",
+    "image": "meme9"
+  },
+  {
+    "id": "meme10",
+    "title": "Social battery",
+    "category": "Relatable",
+    "description": "Plans cancelled? Unexpected happiness unlocked.",
+    "source": "Meme Discovery original sample",
+    "image": "meme10"
+  },
+  {
+    "id": "meme11",
+    "title": "Bug fixed",
+    "category": "Funny",
+    "description": "Fixed one bug Accidentally made three",
+    "source": "Meme Discovery original sample",
+    "image": "meme11"
+  },
+  {
+    "id": "meme12",
+    "title": "Deadline mode",
+    "category": "School",
+    "description": "Deadline in 5 days: relax Deadline in 5 minutes: LEGEND MODE",
+    "source": "Meme Discovery original sample",
+    "image": "meme12"
+  }
+]

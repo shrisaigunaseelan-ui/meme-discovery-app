@@ -1,0 +1,31 @@
+{
+  "name": "meme-discovery-app",
+  "version": "1.0.0",
+  "private": true,
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "web": "expo start --web",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "test": "jest"
+  },
+  "dependencies": {
+    "@react-native-async-storage/async-storage": "2.2.0",
+    "expo": "~54.0.0",
+    "expo-file-system": "~19.0.0",
+    "expo-media-library": "~18.2.0",
+    "expo-status-bar": "~3.0.0",
+    "react": "19.1.0",
+    "react-dom": "19.1.0",
+    "react-native": "0.81.4",
+    "react-native-web": "~0.21.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "jest-expo": "~54.0.0"
+  },
+  "jest": {
+    "preset": "jest-expo"
+  }
+}
